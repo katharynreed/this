@@ -1,0 +1,54 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+#startplaying {
+  background-color: #6DA34D;
+  font-family: 'Dancing Script', cursive;
+}
+
+.click {
+  cursor: pointer;
+}
+
+.frame2 {
+  display: none;
+}
+
+.frame3 {
+  display: none;
+}
+
+.frame4 {
+  display: none;
+}
+
+.frame5 {
+  display: none;
+}
+
+.frame6 {
+  display: none;
+}
+
+.frame7 {
+  display: none;
+}
+
+.frame8 {
+  display: none;
+}
+
+.frame9 {
+  display: none;
+}
+
+.frame10 {
+  display: none;
+}
+
+.frame11 {
+  display:none;
+}
